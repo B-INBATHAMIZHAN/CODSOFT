@@ -1,0 +1,82 @@
+[
+    {
+        "time": "2025-09-09 14:57:01.152439",
+        "operation": "1",
+        "result": "2.0"
+    },
+    {
+        "time": "2025-09-09 15:00:00.053620",
+        "operation": "1",
+        "result": "20.0"
+    },
+    {
+        "time": "2025-09-09 15:02:44.083316",
+        "operation": "7",
+        "result": "3.1622776601683795"
+    },
+    {
+        "time": "2025-09-09 15:03:19.251539",
+        "operation": "10",
+        "result": "{'sin': 0.0175, 'cos': 0.9998, 'tan': 0.0175}"
+    },
+    {
+        "time": "2025-09-09 15:03:57.967762",
+        "operation": "10",
+        "result": "{'sin': 0.1736, 'cos': 0.9848, 'tan': 0.1763}"
+    },
+    {
+        "time": "2025-09-09 15:11:16.150907",
+        "operation": "Addition",
+        "result": "18.0"
+    },
+    {
+        "time": "2025-09-09 15:12:48.997670",
+        "operation": "Addition",
+        "result": "2.0"
+    },
+    {
+        "time": "2025-09-09 15:14:28.819750",
+        "operation": "Addition",
+        "result": "18.0"
+    },
+    {
+        "time": "2025-09-09 15:14:39.875408",
+        "operation": "Trigonometry",
+        "result": "{'sin': 0.766, 'cos': 0.6428, 'tan': 1.1918}"
+    },
+    {
+        "time": "2025-09-09 15:14:58.457606",
+        "operation": "Square Root",
+        "result": "2.23606797749979"
+    },
+    {
+        "time": "2025-09-09 15:17:18.315975",
+        "operation": "Modulus",
+        "result": "0.0"
+    },
+    {
+        "time": "2025-09-09 15:26:25.855159",
+        "operation": "Addition",
+        "result": "2.0"
+    },
+    {
+        "time": "2025-09-09 15:26:50.563584",
+        "operation": "Modulus",
+        "result": "5.0"
+    },
+    {
+        "time": "2025-09-09 15:27:04.940879",
+        "operation": "Trigonometry",
+        "result": "{'sin': 0.0872, 'cos': 0.9962, 'tan': 0.0875}"
+    },
+    {
+        "time": "2025-09-09 15:32:38.523024",
+        "operation": "Logarithm",
+        "result": "0.0"
+    },
+    {
+        "time": "2025-09-09 15:32:44.737915",
+        "operation": "Logarithm",
+        "result": "1.0"
+    }
+]
